@@ -1,11 +1,12 @@
 {
 "homepage": "https://www.curseforge.com/minecraft/mc-mods/upgrade-armors-items",
   "promos": {
-    "1.20.1-latest":"1.6.1",
-    "1.20.1-recommended":"1.6.1"
+    "1.20.1-latest":"1.6.9",
+    "1.20.1-recommended":"1.6.9"
   },
 
   "1.20.1": {
+    "1.6.9": "gold update final part", 
     "1.6.1": "gold update part 2", 
     "1.6.0": "gold update",
     "1.5.8": "amethyst update",
